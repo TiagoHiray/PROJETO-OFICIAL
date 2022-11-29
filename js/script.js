@@ -41,7 +41,7 @@ window.onscroll = () =>{
     navbar.classList.remove('active');
 }
 
-var swiper = new Swiper(".product-slider", {
+var swiper = new Swiper(".produto-slider", {
     loop:true,
     spaceBetween: 20,
     autoplay: {
