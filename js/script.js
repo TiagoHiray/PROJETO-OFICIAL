@@ -62,8 +62,7 @@ var swiper = new Swiper(".produto-slider", {
     },
 });
 
-
-var swiper = new Swiper(".blogs", {
+var swiper = new Swiper(".jogos-slider", {
   loop:true,
   spaceBetween: 20,
   autoplay: {
@@ -83,3 +82,5 @@ var swiper = new Swiper(".blogs", {
     },
   },
 });
+
+
