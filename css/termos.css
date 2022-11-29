@@ -489,5 +489,12 @@ main{
     }    
 }    
 
+@media (min-width: 991px) and (max-width:1250px){
+    .home{
+        margin-top: 6rem;
+    }
+}
+
+
 
 
