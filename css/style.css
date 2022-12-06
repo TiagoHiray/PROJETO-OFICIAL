@@ -34,13 +34,6 @@ section{
     padding:2rem 9%;
 }
 
-.heading{
-    text-align: center;
-    padding:2rem 0;
-    padding-bottom: 3rem;
-    font-size: 3.5rem;
-    color:var(--black);
-}
 
 .heading span{
     background: #b5d214;
@@ -49,6 +42,15 @@ section{
     padding:.5rem 3rem;
     clip-path: polygon(100% 0, 93% 50%, 100% 99%, 0% 100%, 7% 50%, 0% 0%);
 }
+
+.heading{
+    text-align: center;
+    padding:2rem 0;
+    padding-bottom: 3rem;
+    font-size: 3.5rem;
+    color:var(--black);
+}
+
 
 .btn{
     margin-top: 1rem;
@@ -87,14 +89,14 @@ section{
     color:var(--orange);
 }
 
-.header .navbar a{
+ .navbar a{
     font-size: 1.7rem;
     margin:0 1rem;
     color:var(--black);
 }
 
-.header .navbar a:hover{
-    color:white;
+ .navbar a:hover{
+    text-decoration: underline;
 }
 
 .header .icons div{
@@ -602,4 +604,3 @@ section{
         margin-top: 6rem;
     }
 }
-
