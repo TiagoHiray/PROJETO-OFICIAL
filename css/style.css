@@ -601,6 +601,24 @@ section{
 
 @media (min-width: 991px) and (max-width:1250px){
     .home{
-        margin-top: 6rem;
+        margin-top: 10rem;
+    }
+}
+
+@media (min-width:1020px) and (max-width:1357px){
+    .touro{
+        width: 250px;
+    }
+}
+
+@media (min-width:1020px) and (max-width:1095px){
+    .touro{
+        width: 200px;
+    }
+}
+
+@media (min-width:1020px) and (max-width:1095px){
+    .pebolim{
+     width: 220px;;
     }
 }
