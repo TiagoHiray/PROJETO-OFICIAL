@@ -83,3 +83,10 @@ var swiper = new Swiper(".jogos-slider", {
   },
 });
 
+function navigate(){
+  window.open("indexlogado.html",'_blank');
+}
+
+function navigate2(){
+  window.open("index.html",'_blank');
+}
